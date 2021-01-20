@@ -1,4 +1,4 @@
-<h1 align="center">Ori Ravid</h1>
+<h2 align="center">ORI RAVID</h2>
 
 <p align="center">
   <a href="www.oriravid.com">PORTFOLIO</a> • <a href="https://www.linkedin.com/in/oriravid/">LINKEDIN</a>
