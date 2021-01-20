@@ -9,6 +9,8 @@
   <a href="www.oriravid.com">PORTFOLIO</a> • <a href="https://www.linkedin.com/in/oriravid/">LINKEDIN</a>
 </p>
 
+<p align="center">
+
 Hi, I’m Ori! I’m a software engineer with an extensive audio engineering background.
 
 My skillset in software engineering has primarily been focused on frontend development via React, JavaScript, CSS3, and HTML5, though I am always happy to dive into the backend of a project and work on organized, efficient data flow.
@@ -18,3 +20,4 @@ In conjunction, I’ve logged countless hours in both large-scale recording faci
 My experience in these two fields has fueled my passion to take part in media related projects that strive for excellence in design, UX/UI, and functionality. 
 
 [![LANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=oriravid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
