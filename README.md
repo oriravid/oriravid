@@ -6,7 +6,7 @@
 
 
 <p align="center">
-[PORTFOLIO](www.oriravid.com) • [LINKEDIN](https://www.linkedin.com/in/oriravid/) 
+  <a href="www.oriravid.com">PORTFOLIO</a> • <a href="https://www.linkedin.com/in/oriravid/">LINKEDIN</a>
 </p>
 
 Hi, I’m Ori! I’m a software engineer with an extensive audio engineering background.
