@@ -1,4 +1,4 @@
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I like to write in <s>Python</s> Code and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
+<h4 align="center">Ori Ravid</h4>
 
 <p align="center">
   <img width="250" src="https://media0.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
