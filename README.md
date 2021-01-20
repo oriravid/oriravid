@@ -11,13 +11,6 @@
 <a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
 </p>
 
-<p align="center"><samp>
-Check out my repos ⬇️  
-  </samp>
-</p>
-
-![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
-
 [PORTFOLIO](www.oriravid.com) • [LINKEDIN](https://www.linkedin.com/in/oriravid/) 
 
 Hi, I’m Ori! I’m a software engineer with an extensive audio engineering background.
