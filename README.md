@@ -1,3 +1,23 @@
+<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I like to write in <s>Python</s> Code and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
+
+<p align="center">
+  <img width="250" src="https://media0.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+</p>
+
+
+<p align="center">
+<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
+<a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
+</p>
+
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
+</p>
+
+![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
+
 [PORTFOLIO](www.oriravid.com) • [LINKEDIN](https://www.linkedin.com/in/oriravid/) 
 
 Hi, I’m Ori! I’m a software engineer with an extensive audio engineering background.
