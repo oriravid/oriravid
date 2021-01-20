@@ -1,4 +1,4 @@
-[Portfolio](www.oriravid.com)
+[PORTFOLIO](www.oriravid.com) • [LINKEDIN](https://www.linkedin.com/in/oriravid/) 
 
 Hi, I’m Ori! I’m a software engineer with an extensive audio engineering background.
 
