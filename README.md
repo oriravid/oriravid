@@ -4,7 +4,6 @@
   <img src="https://media0.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </p>
 
-Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 <img src="https://media0.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">  |  <img src="https://media0.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
