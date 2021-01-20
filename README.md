@@ -7,3 +7,5 @@ My skillset in software engineering has primarily been focused on frontend devel
 In conjunction, I’ve logged countless hours in both large-scale recording facilities and small project studios, polishing my knowledge in audio recording, editing, and processing in the analog/digital domains.
 
 My experience in these two fields has fueled my passion to take part in media related projects that strive for excellence in design, UX/UI, and functionality. 
+
+[![STATS](https://github-readme-stats.vercel.app/api?username=oriravid)](https://github.com/anuraghazra/github-readme-stats)
