@@ -8,4 +8,4 @@ In conjunction, I’ve logged countless hours in both large-scale recording faci
 
 My experience in these two fields has fueled my passion to take part in media related projects that strive for excellence in design, UX/UI, and functionality. 
 
-[![LANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=oriravid)](https://github.com/anuraghazra/github-readme-stats)
+[![LANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=oriravid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
