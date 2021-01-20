@@ -1,4 +1,4 @@
-<h4 align="center">Ori Ravid</h4>
+<h1 align="center">Ori Ravid</h4>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
