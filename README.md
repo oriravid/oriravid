@@ -5,7 +5,7 @@
 </p>
 
 <p float="left">
-  <img src="https://media0.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100" />
+  <img src="https://media0.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="33.33333%" />
   <img src="https://media2.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="100" /> 
   <img src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif" width="100" />
 </p>
