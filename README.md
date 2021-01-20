@@ -1,13 +1,12 @@
-<h1 align="center">Ori Ravid</h1>
-
 <p float="left" align="center">
   <img src="https://media0.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="32%" />
   <img src="https://media2.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="32%" /> 
   <img src="https://media1.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="32%" />
 </p>
 
+<h1 align="center">Ori Ravid</h1>
+
 <p align="center">
-  
   <a href="www.oriravid.com">PORTFOLIO</a> • <a href="https://www.linkedin.com/in/oriravid/">LINKEDIN</a>
 </p>
 
