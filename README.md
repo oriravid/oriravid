@@ -1,4 +1,4 @@
-<h1 align="center">Ori Ravid</h4>
+<h1 align="center">Ori Ravid</h1>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
@@ -18,6 +18,4 @@ My skillset in software engineering has primarily been focused on frontend devel
 In conjunction, I’ve logged countless hours in both large-scale recording facilities and small project studios, polishing my knowledge in audio recording, editing, and processing in the analog/digital domains.
 
 My experience in these two fields has fueled my passion to take part in media related projects that strive for excellence in design, UX/UI, and functionality. 
-
-[![LANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=oriravid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
