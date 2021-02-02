@@ -1,7 +1,7 @@
 <h2 align="center">ORI RAVID</h2>
 
 <p align="center">
-  <a href="www.oriravid.com">PORTFOLIO</a> • <a href="https://www.linkedin.com/in/oriravid/">LINKEDIN</a>
+  <a href="https://www.oriravid.com">PORTFOLIO</a> • <a href="https://www.linkedin.com/in/oriravid/">LINKEDIN</a>
 </p>
 
 <p float="left" align="center">
